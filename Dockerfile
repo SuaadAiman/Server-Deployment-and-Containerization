@@ -1,4 +1,4 @@
-from python:stretch
+FROM python:stretch
 
 
 COPY . /app
